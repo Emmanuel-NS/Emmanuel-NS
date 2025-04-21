@@ -26,7 +26,8 @@
 
 - 📧 Email: [nsabagasaniemm3@gmail.com](mailto:nsabagasaniemm3@gmail.com)  
 - 📱 Phone/WhatsApp: [+250 790 160 172](tel:+250790160172)  
-- 🌐 Portfolio: Coming soon...
+- 🌐 [My Portfolio](https://emmanuel-ns.github.io/Portfolio/)
+  
 
 ---
 
