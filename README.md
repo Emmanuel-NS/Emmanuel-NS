@@ -3,6 +3,8 @@
 🎓 A passionate Software Engineering student at **African Leadership University (ALU)**, Rwanda — combining creativity, logic, and teamwork to build impactful digital solutions.
 
 ---
+## streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Emmanuel-NS&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## 💻 About Me
 
