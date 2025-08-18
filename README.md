@@ -1,39 +1,54 @@
-# 👋 Hi there, I’m Emmanuel NSABAGASANI
+# 👋 Hi there, I’m Emmanuel NSABAGASANI  
 
-🎓 A passionate Software Engineering student at **African Leadership University (ALU)**, Rwanda — combining creativity, logic, and teamwork to build impactful digital solutions.
-
----
-
-## 💻 About Me
-
-- 🔭 I’m currently working on [**DevConnect**](https://github.com/Emmanuel-NS/devconnect), a front-end project built with React to showcase my UI/UX and JavaScript skills.
-- 🌍 I’m deeply interested in **technology for transformation**, with a focus on empowering digital literacy and practical education across Rwandan high schools.
-- 🛡️ I also study **Cybersecurity** at **Forward Edge Consulting Ltd**, where I was selected among the top six elite participants in the bootcamp cohort.
-- 📚 My passion lies in learning by doing — from contributing to open source to leading digital learning communities like my **Code Club** initiative.
-- 🧠 I enjoy blending technical expertise with leadership, collaboration, and creativity in everything I do.
+🎓 **Software Engineering student** at African Leadership University (ALU), Rwanda.  
+💡 Passionate about **technology in all forms** — from **building digital solutions** to **defending systems** and **empowering communities** through digital literacy.  
 
 ---
 
-## ✨ Fun Facts & Personality
+## 💻 About Me  
 
-- ⚡ Fun fact: Some people think I’m too serious — but those who know me well know I’m actually very chill and fun, especially around close friends 😄
-- 👨‍💻 I love meaningful conversations and one-on-one connections.
-- 🤝 I strongly believe in teamwork, respect, and empowering others through shared knowledge.
+- 🔭 Currently working on **full-stack development projects** (React, Django, Node.js, REST APIs) and **practical SOC skills** (SIEM, Nmap, Threat Hunting, Incident Response).  
+- 🌍 Strong advocate of **technology for transformation**, focusing on solving real-world challenges in education, access, and digital security.  
+- 🛡️ Trained in **Cybersecurity at Forward Edge Consulting Ltd**, selected among the **top six elite participants** of the bootcamp.  
+- 📚 Founder of **Code Club**, mentoring 30+ students in programming, cybersecurity, and innovation competitions.  
+- 🧩 Enjoy learning by doing — from open-source contributions to building prototypes and testing new tools.  
 
 ---
 
-## 📫 Connect with Me
+## 🛠️ Technical Skills  
+
+- **Software Development:** Python, JavaScript, React, Django, Node.js, REST APIs, Docker, Tailwind, Bootstrap  
+- **Cybersecurity & SOC:** SIEM (Splunk, Elastic Security), Log Analysis, Nmap, Wireshark, Threat Intelligence, Endpoint Hardening, Access Control Reviews  
+- **Computer Science & Systems:** Data Structures & Algorithms, TCP/IP, HTTP/HTTPS, Linux, Windows, macOS  
+- **Other Strengths:** Git/GitHub, UI/UX design basics, Cloud fundamentals, Teaching & Mentoring  
+
+---
+
+## 🚀 Highlighted Projects  
+  
+- **Mini SOC Lab** — Simulated SOC environment with log analysis, Nmap scans, and threat hunting.  
+- **Emm3 URL Scanner** — Python/Django tool analyzing URLs for safety using third-party APIs.  
+- **FARUMASI – E-Pharmacy Solution** — Team project addressing rural medicine access through digital innovation.  
+- **MoMo Dashboard** — Responsive mobile money dashboard built with Node.js & React.  
+
+---
+
+## ✨ Fun Facts & Personality  
+
+- ⚡ People think I’m too serious, but with friends I’m **chill, fun, and full of energy** 😄  
+- 🤝 I thrive in **teamwork**, respect collaboration, and love mentoring peers.  
+- 👨‍💻 I enjoy **deep 1:1 conversations**, hackathons, and tech competitions.  
+- 🌟 Motto: *"Technology should not only solve problems but also inspire people."*  
+
+---
+
+## 📫 Connect with Me  
 
 - 📧 Email: [nsabagasaniemm3@gmail.com](mailto:nsabagasaniemm3@gmail.com)  
 - 📱 Phone/WhatsApp: [+250 790 160 172](tel:+250790160172)  
-- 🌐 [My Portfolio](https://emmanuel-ns.github.io/Portfolio/)
-  
+- 🌐 [My Portfolio](https://emmanuel-ns.github.io/Portfolio/)  
+- 🔗 [LinkedIn](https://linkedin.com/in/emmanuel-nsabagasani-598946337)  
 
 ---
 
-> _“Learning never exhausts the mind. It only ignites it.”_
-
-<!---
-Emmanuel-NS/Emmanuel-NS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> _“Cybersecurity is not just about protecting systems, it’s about protecting trust.”_  
