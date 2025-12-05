@@ -66,7 +66,7 @@ Software Engineer · Cybersecurity Analyst · IT Educator · Digital Solutions C
 
 - 📧 Email: [e.nsabagasa@alustudent.com](mailto:e.nsabagasa@alustudent.com)
 - 💬 WhatsApp: [+250 790 160 172](https://wa.me/250790160172)
-- 🌐 Portfolio: [https://portfolio-skwx.vercel.app](https://portfolio-ombm.vercel.app/)
+- 🌐 Portfolio: [https://portfolio-skwx.vercel.app](https://portfolio-8rpl.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/emmanuel-nsabagasani](https://linkedin.com/in/emmanuel-nsabagasani)
 - 🐙 GitHub: [github.com/Emmanuel-NS](https://github.com/Emmanuel-NS)
 
